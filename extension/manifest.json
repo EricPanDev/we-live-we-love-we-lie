@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "we live we love we lie",
+    "version": "1.0",
+    "description": "made by eric, we live we love we lie",
+    "permissions": ["activeTab", "storage", "tabs"],
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ],
+    "icons": {
+      "48": "icon.png"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    }
+  }
