@@ -1,3 +1,6 @@
+# WARNING: I AM ADDING THIS HERE SO I DONT GET IN TROUBLE
+this replaces all images with the we live we love we lie image, and changes ur cursor
+
 # warning: i made this while silly
 WE LIVEEE WE LOVEE WE LIEEE
 
